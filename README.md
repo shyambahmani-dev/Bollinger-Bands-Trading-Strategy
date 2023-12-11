@@ -1,57 +1,54 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-</head>
-<body>
+# Bollinger Band Breakout Strategy Overview
 
-<h1>Strategy Overview: Bollinger Band Breakout on ^NSEI (1hr, 1.969 years)</h1>
+This repository contains performance metrics and analysis for the Bollinger Band Breakout trading strategy applied to ^NSEI (Nifty 50 index) at a 1-hour interval over 1.969 years.
 
-![bollinger_band_breakout-^NSEI-1h-(2021-12-22 - 2023-22-12)](https://github.com/shyambahmani-dev/Bollinger-Bands-Trading-Strategy/assets/110190548/afb59db8-b2c5-46d3-b328-0453b86ba75c)
+## Performance Metrics
+
+![bollinger_band_breakout-^NSEI-1h-(2021-12-22 - 2023-22-12)](https://github.com/shyambahmani-dev/Bollinger-Bands-Trading-Strategy/assets/110190548/d2e7ae8d-a414-492a-85be-770320fdbeec)
 
 
-<h3>Total Returns Analysis</h3>
-<p>Total Returns: 45.979%<br>
-Excess Returns: 21.618%</p>
+### Total Returns Analysis
+- **Total Returns:** 45.979%
+- **Excess Returns:** 21.618%
 
-<p><strong>Insights:</strong><br>
-Impressive total returns, showcasing the strategy's ability to capture market movements.<br>
-Strong excess returns indicate effective utilization of Bollinger Band signals.</p>
+**Insights:**
+- Impressive total returns, slightly trailing behind the EMA Crossover strategy.
+- Strong excess returns suggest effective utilization of Bollinger Band signals.
 
-<h3>CAGR Analysis</h3>
-<p>CAGR: 21.186%<br>
-Excess CAGR: 9.475%</p>
+### CAGR Analysis
+- **CAGR:** 21.186%
+- **Excess CAGR:** 9.475%
 
-<p><strong>Insights:</strong><br>
-Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth.<br>
-Excess CAGR underscores a potentially resilient approach to market trends.</p>
+**Insights:**
+- Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth.
+- Excess CAGR showcases a potentially resilient approach to market trends.
 
-<h3>AUC Analysis</h3>
-<p>AUC Ratio: 1.128</p>
+### AUC Analysis
+- **AUC Ratio:** 1.128
 
-<p><strong>Insights:</strong><br>
-AUC analysis demonstrates consistent outperformance compared to the market.<br>
-AUC Ratio of 1.128 suggests effective performance over the analyzed period.</p>
+**Insights:**
+- AUC analysis indicates consistent outperformance compared to the market.
+- AUC Ratio of 1.128 suggests effective performance over the analyzed period.
 
-<h3>Market Deviation Analysis</h3>
-<p>Max Up from Market: 20.269%<br>
-Avg Up from Market: 12.676%</p>
+### Market Deviation Analysis
+- **Max Up from Market:** 20.269%
+- **Avg Up from Market:** 12.676%
 
-<p><strong>Insights:</strong><br>
-Positive deviations from the market throughout the period.<br>
-Maximum deviation of 20.269% and an average deviation of 12.676% showcase effective trend capture.</p>
+**Insights:**
+- Positive deviations from the market throughout the period.
+- Maximum deviation of 20.269% and an average deviation of 12.676% demonstrate effective trend capture.
 
-<h3>Sharpe Ratio Analysis</h3>
-<p>Sharpe Ratio: 0.457</p>
+### Sharpe Ratio Analysis
+- **Sharpe Ratio:** 0.457
 
-<p><strong>Insights:</strong><br>
-A higher Sharpe Ratio of 0.457 indicates potentially more efficient risk-adjusted returns.<br>
-Suggests the strategy's ability to deliver returns while managing risk effectively.</p>
+**Insights:**
+- A higher Sharpe Ratio of 0.457 indicates potentially more efficient risk-adjusted returns.
+- Suggests the strategy's ability to deliver returns while managing risk effectively.
 
-<h2>Conclusion</h2>
-<p>The Bollinger Band Breakout strategy has demonstrated commendable performance with strong total returns, robust CAGR, consistent AUC outperformance, and an impressive Sharpe Ratio.<br>
-This strategy showcases the ability to capture market trends effectively and deliver returns with efficient risk management.</p>
+## Conclusion
 
-</body>
-</html>
+The Bollinger Band Breakout strategy has demonstrated commendable performance with strong total returns, robust CAGR, consistent AUC outperformance, and an impressive Sharpe Ratio. This strategy showcases the ability to capture market trends effectively and deliver returns with efficient risk management.
+
+---
+
+Feel free to customize this README to include additional information or sections relevant to your project.
