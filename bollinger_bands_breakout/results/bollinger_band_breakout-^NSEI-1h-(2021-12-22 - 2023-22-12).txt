@@ -1,0 +1,38 @@
+Strategy bollinger_band_breakout applied on ^NSEI at interval of 1h for 1.969 years from 2021-12-22 to 2023-12-11
+
+
+:: Total Returns :: 
+
+Strategy : 45.979
+Benchmark : 24.361
+Excess : 21.618
+
+
+
+:: CAGR analysis ::
+
+Strategy : 21.186
+Market : 11.711
+Excess : 9.475
+
+
+
+:: AUC analysis ::
+
+AUC of Portfolio = 4091837023.752
+AUC of Market = 3628121547.906
+AUC ratio = 1.128
+
+
+
+:: Market deviation analysis ::
+
+Max up from market = 0.203
+Max Down from market = -0.036
+Average Up from market = 0.127
+
+
+:: Sharpe Ratio analysis ::
+
+Sharpe Ratio of Portfolio = 0.457
+Sharpe Ratio of Benchmark = 0.187
