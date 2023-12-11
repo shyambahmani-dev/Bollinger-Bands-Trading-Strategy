@@ -5,7 +5,7 @@ Strategy Overview: Bollinger Band Breakout on ^NSEI (1hr, 1.969 years)
 Period: December 22, 2021, to December 11, 2023
 
 
-Total Returns: 45.979%
+1. Total Returns: 45.979%
 Excess Returns: 21.618%
 
 Impressive total returns, showcasing the strategy's ability to capture market movements.
@@ -14,7 +14,7 @@ Strong excess returns indicate effective utilization of Bollinger Band signals.
 
 
 
-CAGR: 21.186%
+2. CAGR: 21.186%
 Excess CAGR: 9.475%
 
 Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The excess CAGR underscores a potentially resilient approach to market trends.
@@ -22,11 +22,12 @@ Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The ex
 
 
 
-AUC Ratio of 1.128 demonstrates consistent outperformance compared to the market.
+3. AUC Ratio of 1.128 demonstrates consistent outperformance compared to the market.
 
 
 
 
+4.
 Max Up from Market: 20.269%
 Avg Up from Market: 12.676%
 
@@ -34,7 +35,7 @@ Positive deviations from the market throughout the period. Maximum deviation of 
 
 
 
-
+5. 
 Sharpe Ratio: 0.457
 Market Sharpe ratio: 0.187
 
