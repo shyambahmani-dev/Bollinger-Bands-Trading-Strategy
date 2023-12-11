@@ -16,8 +16,8 @@ Strong excess returns indicate effective utilization of Bollinger Band signals.
 
 2. CAGR Analysis
 
-    CAGR: 21.186%
-    Excess CAGR: 9.475%
+   CAGR: 21.186%
+   Excess CAGR: 9.475%
 
 Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The excess CAGR underscores a potentially resilient approach to market trends.
 
