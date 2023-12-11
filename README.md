@@ -6,18 +6,18 @@ Period: December 22, 2021, to December 11, 2023
 
 
 1. Total Returns: 45.979%
-Excess Returns: 21.618%
+  Excess Returns: 21.618%
 
-Impressive total returns, showcasing the strategy's ability to capture market movements.
-Strong excess returns indicate effective utilization of Bollinger Band signals.
+  Impressive total returns, showcasing the strategy's ability to capture market movements.
+  Strong excess returns indicate effective utilization of Bollinger Band signals.
 
 
 
 
 2. CAGR: 21.186%
-Excess CAGR: 9.475%
+  Excess CAGR: 9.475%
 
-Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The excess CAGR underscores a potentially resilient approach to market trends.
+  Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The excess CAGR underscores a potentially resilient approach to market trends.
 
 
 
@@ -28,22 +28,22 @@ Robust Compound Annual Growth Rate (CAGR), outpacing the market's growth. The ex
 
 
 4.
-Max Up from Market: 20.269%
-Avg Up from Market: 12.676%
+  Max Up from Market: 20.269%
+  Avg Up from Market: 12.676%
 
-Positive deviations from the market throughout the period. Maximum deviation of 20.269% and an average deviation of 12.676% showcase effective trend capture.
+  Positive deviations from the market throughout the period. Maximum deviation of 20.269% and an average deviation of 12.676% showcase effective trend capture.
 
 
 
 5. 
-Sharpe Ratio: 0.457
-Market Sharpe ratio: 0.187
+  Sharpe Ratio: 0.457
+  Market Sharpe ratio: 0.187
 
-A higher Sharpe Ratio of 0.457 indicates potentially more efficient risk-adjusted returns over the market. Suggests the strategy's ability to deliver returns while managing risk effectively.
+  A higher Sharpe Ratio of 0.457 indicates potentially more efficient risk-adjusted returns over the market. Suggests the strategy's ability to deliver returns while managing risk effectively.
 
 
 
 
 
 Conclusion:
-The Bollinger Band Breakout strategy has demonstrated commendable performance with strong total returns, robust CAGR, consistent AUC outperformance, and an impressive Sharpe Ratio.
+  The Bollinger Band Breakout strategy has demonstrated commendable performance with strong total returns, robust CAGR, consistent AUC outperformance, and an impressive Sharpe Ratio.
